@@ -1,0 +1,3 @@
+BREAK = '#'
+ADD = '+'
+CHECK = '?'
